@@ -15,3 +15,4 @@ student.push('roma') //set last new value
 student.pop() //array to out value
 
 console.log(student)//output
+console.log(typeof student)
